@@ -42,7 +42,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <maven.compiler.source>1.7</maven.compiler.source>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <oracle.driver.version>12.1.0.1</oracle.driver.version>
+        <oracle.driver.version>12.2.0.1</oracle.driver.version>
     </properties>
     <dependencies>
         <dependency>
