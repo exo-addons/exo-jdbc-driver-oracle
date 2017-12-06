@@ -28,7 +28,7 @@
     </parent>
     <groupId>org.exoplatform.addons.exo-jdbc-driver-oracle</groupId>
     <artifactId>exo-jdbc-driver-oracle</artifactId>
-    <version>1.0.x-SNAPSHOT</version>
+    <version>1.1.x-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>eXo Platform Oracle driver</name>
     <description>eXo Platform Oracle driver</description>
